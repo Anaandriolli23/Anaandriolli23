@@ -1,16 +1,17 @@
-###-BEM VINDOS AO MEU PERFIL 💟
+### BEM VINDOS AO MEU PERFIL 💟
 
--oi sou ana 💙
+oi sou ana 💙
 
--Estou no primeiro ano do ensino médio 🖤
+Estou no primeiro ano do ensino médio 🖤
 
-- Estou fazendo o alura 📝
-- 
-- Tenho 15 anos😺
+Estou fazendo o [alura](https:www.alura.com.br)
+ 
+Tenho 15 anos
 
-- Ha milhares de pessoas más eu sou apenas eu
+Ha milhares de pessoas más eu sou apenas eu
 
-- @anaandriolli23
+ana.andriolli@escola.pr.gov.br
 
--Make it happen
+Make it happen
 
+![](https://tenor.com/c0DuSDwLNxH.gif) 
