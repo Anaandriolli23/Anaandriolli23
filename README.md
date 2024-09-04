@@ -8,10 +8,8 @@ Estou fazendo o [alura](https:www.alura.com.br)
  
 Tenho 15 anos
 
-Ha milhares de pessoas más eu sou apenas eu
+“Life is too short to wait"
 
 ana.andriolli@escola.pr.gov.br
 
-Make it happen
-
-![](https://tenor.com/c0DuSDwLNxH.gif) 
+![](https://media.tenor.com/Wjk5FcGbgHAAAAAM/gol-gol-do-gabigol.gif)
